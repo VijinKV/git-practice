@@ -4,3 +4,6 @@ def add(x,y) :
 def sqaureSum(a,b):
 	return add(a*a,b*b)
 
+def volume(a,b,c):
+	return a*b*c
+
