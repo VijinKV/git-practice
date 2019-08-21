@@ -1,0 +1,2 @@
+def sqaureArea(x) : 
+	return x*x
